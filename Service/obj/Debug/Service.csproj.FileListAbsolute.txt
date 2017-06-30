@@ -1,0 +1,13 @@
+F:\MyCode\MVC\KellyTest\Service\bin\Debug\Service.dll
+F:\MyCode\MVC\KellyTest\Service\bin\Debug\Service.pdb
+F:\MyCode\MVC\KellyTest\Service\bin\Debug\Repository.dll
+F:\MyCode\MVC\KellyTest\Service\bin\Debug\TestModel.dll
+F:\MyCode\MVC\KellyTest\Service\bin\Debug\EntityFramework.dll
+F:\MyCode\MVC\KellyTest\Service\bin\Debug\Repository.pdb
+F:\MyCode\MVC\KellyTest\Service\bin\Debug\TestModel.pdb
+F:\MyCode\MVC\KellyTest\Service\bin\Debug\EntityFramework.xml
+F:\MyCode\MVC\KellyTest\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+F:\MyCode\MVC\KellyTest\Service\obj\Debug\Service.dll
+F:\MyCode\MVC\KellyTest\Service\obj\Debug\Service.pdb
+F:\MyCode\MVC\KellyTest\Service\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\MyCode\MVC\KellyTest\Service\bin\Debug\WebActivatorEx.dll
