@@ -1,0 +1,25 @@
+﻿@model TestModel.Product
+
+@{
+    ViewBag.Title = "Success";
+}
+
+<h2>Success</h2>
+<form method="post">
+    <div>
+        <label>Name on the card:</label>
+        <input type="text" name="userName" id="userName" placeholder="Enter your name on the card" />
+    </div>
+    <div>
+        <label>Card Number:</label>
+        <input type="text" name="cardNumber" id="cardNumber" placeholder="Enter card number" />
+    </div>
+    <div>
+        <label>Expired Time:</label>
+        <input type="text" name="year" id="year" placeholder="year" /><label>/</label><input type="text" name="month" id="month" placeholder="month" />
+    </div>
+    <input type="submit" value="Place Order" />
+</form>
+<script>
+
+</script>
