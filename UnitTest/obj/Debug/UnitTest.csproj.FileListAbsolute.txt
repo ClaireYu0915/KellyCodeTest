@@ -1,0 +1,16 @@
+F:\MyCode\MVC\KellyTest\UnitTest\bin\Debug\UnitTest.dll
+F:\MyCode\MVC\KellyTest\UnitTest\bin\Debug\UnitTest.pdb
+F:\MyCode\MVC\KellyTest\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\MyCode\MVC\KellyTest\UnitTest\bin\Debug\Repository.dll
+F:\MyCode\MVC\KellyTest\UnitTest\bin\Debug\Service.dll
+F:\MyCode\MVC\KellyTest\UnitTest\bin\Debug\TestModel.dll
+F:\MyCode\MVC\KellyTest\UnitTest\bin\Debug\EntityFramework.dll
+F:\MyCode\MVC\KellyTest\UnitTest\bin\Debug\Repository.pdb
+F:\MyCode\MVC\KellyTest\UnitTest\bin\Debug\Service.pdb
+F:\MyCode\MVC\KellyTest\UnitTest\bin\Debug\TestModel.pdb
+F:\MyCode\MVC\KellyTest\UnitTest\bin\Debug\EntityFramework.xml
+F:\MyCode\MVC\KellyTest\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\MyCode\MVC\KellyTest\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+F:\MyCode\MVC\KellyTest\UnitTest\obj\Debug\UnitTest.dll
+F:\MyCode\MVC\KellyTest\UnitTest\obj\Debug\UnitTest.pdb
+F:\MyCode\MVC\KellyTest\UnitTest\bin\Debug\UnitTest.dll.config
