@@ -1,0 +1,7 @@
+F:\MyCode\MVC\KellyTest\TestModel\bin\Debug\TestModel.dll
+F:\MyCode\MVC\KellyTest\TestModel\bin\Debug\TestModel.pdb
+F:\MyCode\MVC\KellyTest\TestModel\obj\Debug\TestModel.dll
+F:\MyCode\MVC\KellyTest\TestModel\obj\Debug\TestModel.pdb
+F:\MyCode\MVC\KellyTest\TestModel\obj\Debug\TestModel.csprojResolveAssemblyReference.cache
+F:\MyCode\MVC\KellyTest\TestModel\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\MyCode\MVC\KellyTest\TestModel\bin\Debug\WebActivatorEx.dll
