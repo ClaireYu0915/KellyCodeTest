@@ -18,7 +18,7 @@ namespace KellyTest.Controllers
         public ActionResult Index()
         {
 
-
+            //
             List<Product> list = new List<Product>();
             string id = "1";
             Product product = _iService.CheckValidProduct(id);
